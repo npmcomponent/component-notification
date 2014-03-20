@@ -3,9 +3,9 @@
  * Module dependencies.
  */
 
-var dom = require('dom');
-var Emitter = require('emitter');
-var onBody = require('on-body');
+var dom = require('component-dom');
+var Emitter = require('component-emitter');
+var onBody = require('segmentio-on-body');
 
 /**
  * Expose `notify`.

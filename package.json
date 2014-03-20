@@ -1,0 +1,20 @@
+{
+  "name": "component-notification",
+  "description": "Notification component",
+  "version": "0.0.5",
+  "keywords": [
+    "notify",
+    "notification",
+    "ui",
+    "growl"
+  ],
+  "styles": [
+    "notification.css"
+  ],
+  "dependencies": {
+    "component-dom": "git://github.com/npmcomponent/component-dom.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "segmentio-on-body": "git://github.com/npmcomponent/segmentio-on-body.git"
+  },
+  "license": "MIT"
+}
